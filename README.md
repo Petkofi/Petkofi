@@ -15,24 +15,25 @@ I am currently working on data science projects where I can leverage my knowledg
 
 In this ever-evolving field, I believe in continuous learning. I am dedicated to expanding my knowledge and staying updated with the latest trends and technologies in data science. Currently, I am delving into topics like deep learning, natural language processing (NLP), data engineering, and big data technologies.
 
-## 🚀 Skills:  
-<table>
+## 🚀 Skills:
+
+<table style="width:100%; border-collapse:collapse;">
   <tr>
-    <td><a>📊 Data Analytics</a></td>
-    <td>📈 Data Science</td>
-    <td>💾 SQL</td>
-    <td>📊 Excel</td>
-    <td>📊 Data Visualization Tools: 
-      Power Bi, Tableau, Google Analytics</td>
+    <td>📊 <strong>Data Analytics</strong></td>
+    <td>📈 <strong>Data Science</strong></td>
+    <td>💾 <strong>SQL</strong></td>
+    <td>📊 <strong>Excel</strong></td>
+    <td>📊 <strong>Data Visualization</strong><br>Power BI, Tableau, Google Analytics</td>
   </tr>
   <tr>
-    <td>🐍 Python</td>
-    <td>⚙️ Machine Learning</td>
-    <td>⚡ Apache Spark</td>
-    <td>🔍 Exploratory Data Analysis</td>
-    <td>🔄 ETL (Extract, Transform, Load)</td>
+    <td>🐍 <strong>Python</strong></td>
+    <td>⚙️ <strong>Machine Learning</strong></td>
+    <td>⚡ <strong>Apache Spark</strong></td>
+    <td>🔍 <strong>Exploratory Data Analysis</strong></td>
+    <td>🔄 <strong>ETL</strong><br>(Extract, Transform, Load)</td>
   </tr>
 </table>
+
 
 ## 🔧 Languages and Tools:
 <table>
