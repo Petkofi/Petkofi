@@ -1,4 +1,3 @@
-## Hi there 👋
 ![GIT HUB BANNER](https://github.com/thejagadeesh/thejagadeesh/assets/114074976/eca5972e-4f18-471a-bb25-ba26c63d7ce9)
 
 
