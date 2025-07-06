@@ -1,4 +1,4 @@
-![GIT HUB BANNER](https://github.com/thejagadeesh/thejagadeesh/assets/114074976/eca5972e-4f18-471a-bb25-ba26c63d7ce9)
+![GIT HUB BANNER](My_GitHub_Banner.gif)
 
 
 <h2 align="center"><b>Hi there! 👋 I'm Peter</b></h2>
