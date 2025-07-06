@@ -82,7 +82,7 @@ I'm excited to connect with data enthusiasts and professionals! ⚡Let's explore
 
 📬Email: petkofiexcel@gmail.com
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sites.google.com/view/peterkofiarthur/home)
+[![portfolio](https://img.shields.io/badge/My_Portfolio-2e8b57?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sites.google.com/view/peterkofiarthur/home)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-kofi-arthur-72306a12a)
 [![Kaggle](https://img.shields.io/badge/Kaggle-1DA1F2?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/peterkofiarthur)
 [![Tableau](https://img.shields.io/badge/Tableau-032d60?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/peter.kofi.arthur/vizzes)
