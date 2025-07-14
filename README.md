@@ -83,13 +83,12 @@ I'm excited to connect with data enthusiasts and professionals! ⚡Let's explore
 
 📬Email: petkofiexcel@gmail.com
 
-[![portfolio](https://img.shields.io/badge/My_Portfolio-2e8b57?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sites.google.com/view/peterkofiarthur/home)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-kofi-arthur-72306a12a)
 [![Kaggle](https://img.shields.io/badge/Kaggle-1DA1F2?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/peterkofiarthur)
 [![Tableau](https://img.shields.io/badge/Tableau-032d60?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/peter.kofi.arthur/vizzes)
 [![credly](https://img.shields.io/badge/credly-ff6a00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/peter-kofi-arthur)
 
-Thank you for visiting my profile, and don't forget to check out 🚀[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sites.google.com/view/peterkofiarthur/home)✨
+Thank you for visiting my profile ✨
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/194bc176c0b3f2ef01a883ff206499b86c5ce72f/assets/Bottom_down.svg" width="4000" height="250" />
 <h4 align="center">
 <h4 align="center">
