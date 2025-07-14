@@ -92,7 +92,7 @@ Thank you for visiting my profile ✨
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/194bc176c0b3f2ef01a883ff206499b86c5ce72f/assets/Bottom_down.svg" width="4000" height="250" />
 <h4 align="center">
 <h4 align="center">
-  <a href="https://sites.google.com/view/peterkofiarthur/home" title="Portfolio"> Show More 🔍</a>
+  <a href="https://github.com/Petkofi?tab=repositories" title="Repositories"> Show More 🔍</a>
 </h4>
 
 
